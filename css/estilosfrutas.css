@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#FF9}
+#titulo
+{background:#0CC; color:#FFC}
+#piedepagina
+{background:#0CC; color:#FFC}
+#introduccion
+{color:#000; size:3; text-align:justify; background:#CF6; width:98%; margin:1%}
+#page2
+{background:#FFC}
+#bayas
+{background:#FF9; color:#FFF}
+#arandanos
+{background:#F99}
+#frambuesas
+{background:#FC9}
+#fresas
+{background:#FC0}
+#grosellaespinosa
+{background:#9C3}
+#grosellanegra
+{background:#99F}
+#grosellaroja
+{background:#6FC}
+#zarzamoras
+{background:#C9F}
+#page3
+{background:#FFC}
+#citricos
+{background:#CF6; color:#FFF}
+#limones
+{background:#9F6}
+#mandarinas
+{background:#F96}
+#naranjas
+{background:#FC6}
+#toronja
+{background:#3C9}
+#page4
+{background:#FFC}
+#curcubitaceas
+{background:#F96; color:#FFF}
+#melones
+{background:#FCC}
+#sandias
+{background:#CC6}
+#page5
+{background:#FFC}
+#exoticas
+{background:#0C9; color:#FFF}
+#aguacates
+{background:#C99}
+#carambolas
+{background:#9FC}
+#cocos
+{background:#C96}
+#chirimoyas
+{background:#9CF}
+#datiles
+{background:#CF9}
+#frutadelapasion
+{background:#6FF}
+#kiwis
+{background:#6F9}
+#lictchis
+{background:#C9C}
+#mangos
+{background:#FC6}
+#papayas
+{background:#FCC}
+#pinas
+{background:#FC9}
+#platanos
+{background:#CC3}
+#page6
+{background:#FFC}
+#frutadulce
+{background:#F99; color:#FFF}
+#albaricoques
+{background:#FCC}
+#cerezas
+{background:#F99}
+#ciruelas
+{background:#E69DFD}
+#higos
+{background:#99F}
+#kakis
+{background:#CF6}
+#manzanas
+{background:#F99}
+#melocotones
+{background:#CF9}
+#nectarinas
+{background:#FF6}
+#nisperos
+{background:#C99}
+#peras
+{background:#1BE494}
+#uvas
+{background:#DA71F4}
+#page7
+{background:#FFC}
+#frutrossecos
+{background:#C99; color:#FFF}
+#almendras
+{background:#F5CD81}
+#avellanas
+{background:#C9F}
+#cacahuates
+{background:#F90}
+#castanas
+{background:#6CC}
+#nueces
+{background:#C96}
+#nuezpecan
+{background:#0F9}
+#pistachos
+{background:#CF6}
